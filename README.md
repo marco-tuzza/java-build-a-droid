@@ -1,4 +1,4 @@
-# Droid Class
+# Java Droid
 The `Droid` class is a simple Java class that represents a droid, which is a type of robot. The class has several methods that allow users to perform tasks with the droid, check its battery level, recharge it, and shut it down.
 ## Instantiating a Droid
 To create a new `Droid` instance, you can use the following code:
